@@ -36,7 +36,7 @@ sq_root(n)
 ```
 
 ## Output:
-(!OUTPUT](https://github.com/Prithivirajan2911/Square-root-of-a-number/assets/147020085/f8712de5-7b64-48ef-965e-652d9336a8bb)
+[!OUTPUT](https://github.com/Prithivirajan2911/Square-root-of-a-number/assets/147020085/f8712de5-7b64-48ef-965e-652d9336a8bb)
 
 
 
